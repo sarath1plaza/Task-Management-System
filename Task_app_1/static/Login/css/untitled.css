@@ -1,0 +1,12 @@
+#write:hover {
+  border-color: rgb(62,140,228);
+  background-color: rgb(255,255,255);
+  color: rgb(0,0,0);
+}
+
+#write {
+  background-color: rgb(62,140,228);
+  border-color: rgb(62,140,228);
+  color: rgb(255,255,255);
+}
+

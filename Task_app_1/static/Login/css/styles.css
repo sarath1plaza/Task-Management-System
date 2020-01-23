@@ -1,0 +1,101 @@
+#previouss:hover {
+  background-color: rgb(255,255,255);
+  color: rgb(255,193,7);
+}
+
+#previouss {
+  background-color: rgb(255,193,7);
+  border-color: white;
+  color: rgb(255,255,255);
+}
+
+#foot {
+  bottom: 0;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+#fluid {
+}
+
+#previous:hover {
+  background-color: rgb(255,193,7);
+  color: white;
+}
+
+#previous {
+  background-color: rgb(255,255,255);
+  border-color: white;
+  color: black;
+}
+
+#pen {
+  /*float: left;*/
+  /*margin-left: -30px;*/
+}
+
+#pen {
+  /*margin-left: -100px;*/
+}
+
+#navcol-1 {
+  max-width: 100%;
+}
+
+#cc.container-fluid {
+  padding: 0;
+}
+
+#body_col1 {
+  /*width: 70%;*/
+  /*float: left;*/
+  /*height: 0px;*/
+}
+
+#body_col2 {
+  width: 30%;
+  float: right;
+}
+
+fluid {
+  max-width: 100%;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.container-fluid {
+  max-width: 100%;
+}
+
+#jumbtron1 {
+  text-align: center;
+  margin: 40px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.50);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.card-title:hover {
+  color: #fab214;
+}
+
+.text-muted {
+  color: #6c757d!important;
+}
+
+#time {
+  color: blue;
+}
+
+img:hover {
+  color: #fab214;
+}
+
