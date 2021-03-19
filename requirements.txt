@@ -9,7 +9,7 @@ django-import-export==2.0.1
 django-rest-auth==0.9.5
 django-suit==0.2.25
 django-templated-mail==1.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djoser==2.0.3
 et-xmlfile==1.0.1
 jdcal==1.4.1
